@@ -14,3 +14,7 @@ https://www.vrarworld.cn/xinwenrili/8230.html
 
 From PC: 
 https://github.com/Genymobile/scrcpy
+
+
+Git on the topic: 
+https://github.com/trev3d/QuestDisplayAccessDemo
