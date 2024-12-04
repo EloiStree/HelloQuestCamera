@@ -24,3 +24,7 @@ https://github.com/trev3d/QuestDisplayAccessDemo
 [![image](https://github.com/user-attachments/assets/60570543-0595-4fbb-83e6-577eaadb8831)](https://www.linkedin.com/posts/lucas-martinic_xr-unity-meta-ugcPost-7244486824272834560-Tayy?utm_source=share&utm_medium=member_desktop)
 https://www.linkedin.com/posts/lucas-martinic_xr-unity-meta-ugcPost-7244486824272834560-Tayy?utm_source=share&utm_medium=member_desktop
 https://developer.android.com/media/grow/media-projection
+
+
+
+https://github.com/trev3d/QuestDisplayAccessDemo/tree/qr
