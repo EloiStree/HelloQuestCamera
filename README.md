@@ -3,6 +3,12 @@ Just some note about how we could access the Quest 3 camera
 
 
 
+Good:
+- https://www.linkedin.com/posts/robertocoviello_hi-xr-developers-we-have-been-working-on-activity-7306306597423652864-DX8-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo
+- https://github.com/EloiStree/Fork_UnityPassthroughCameraApiSamples/tree/main
+- https://github.com/xrdevrob/QuestCameraKit
+- https://github.com/trev3d/QuestDisplayAccessDemo
+
 
 [![image](https://github.com/user-attachments/assets/041c6799-54d2-456c-a130-c56dfad77aa5)](https://www.uploadvr.com/quest-3-raw-camera-access-workaround-found/)  
 https://www.uploadvr.com/quest-3-raw-camera-access-workaround-found/  
