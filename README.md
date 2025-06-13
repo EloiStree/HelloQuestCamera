@@ -8,7 +8,13 @@
   - Copy the passthrough code of sample in the project https://youtu.be/A2ZhJt-SIBU?t=2018
   - Add `<uses-permission android:name="horizonos.permission.HEADSET_CAMERA" />`
     - https://youtu.be/A2ZhJt-SIBU?t=2535
-  - 
+
+
+WebRTC
+- Stream with WebRTC https://youtu.be/1R9yrXePJ40?t=22
+   - https://github.com/FireDragonGameStudio/SimpleWebRTC
+   - https://github.com/endel/NativeWebSocket 
+
 -----------------------
 
 # Hello Quest Camera
